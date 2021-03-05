@@ -1,0 +1,63 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+  color: yellow
+
+# your designation
+designation: Seeking oppurtunity in Data Science
+# your company information
+# your resume. this file path should be relative to you "static" directory
+resume: "files/Resume_Subhasree_Mohapatra.pdf"
+
+# a summary about you
+summary: 'An enthusiast for Data Science. An oppurtunist to learn new aspects of technology. After gaining seven years of  substantial experience as an IT professional, I extended my step into the field of Data Science,mostly led by my curiosity to learn, to explore it in depth.This portfolio demonstrate some of my works towards engaging with data science, but its the least not the last!!!'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "subhasreemohapatra2019@gmail.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/Eva86271/"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/subhasree-mohapatra-062a2996/"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Leadership
+  percentage: 85
+  color: '#FFC300'
+- name: Team Skills
+  percentage: 90
+  color: '#339BFF'
+- name: Communication
+  percentage: 85
+  color: '#33FF60'
+- name: Analytical Ability
+  percentage: 85
+  color: '#FF33D9'
+- name: Fast Learner
+  percentage: 85
+  color: sky
+- name: Problem Solving
+  percentage: 85
+  color: '#00adb5'
+# you can also provide color code instead of pre-defined color name
+# - name: Example 1
+#   percentage: 75
+#   color: "#00adb5"
+# - name: Example 2
+#   percentage: 65
+#   color: "#8b8383"

@@ -1,0 +1,33 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Python
+  logo: "/images/sections/skills/python.png"
+  summary: "Efficient in understanding and implementing solution in Python using its packages and libraries for data."
+  #url: "https://kubernetes.io/"
+
+- name: R Programming
+  logo: "/images/sections/skills/R.png"
+  summary: "Skillfully using R and its associated libraries for Analysis."
+  #url: "https://golang.org/"
+
+- name: Java Programming
+  logo: "/images/sections/skills/Java.png"
+  summary: "Applying the Java programming to construct front-end applications and handling large datasets."
+
+- name: Power BI
+  logo: "/images/sections/skills/poer.png"
+  summary: "Analysing data using Power BI"
+  #url: "https://www.docker.com/"
+
+

@@ -1,0 +1,67 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Data Science Enthusiast
+# your company information
+#company:
+ # name: Example Co.
+ # url: "https://www.example.com"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/resume.pdf"
+
+# a summary about you
+summary: 'Curious and passionate about DATA.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "subhasreemohapatra2019@gmail.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/example"
+
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "#"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: R
+  percentage: 85
+  color: blue
+- name: Python
+  percentage: 90
+  color: yellow
+- name: Communication
+  percentage: 85
+  color: pink
+- name: Smart Working
+  percentage: 85
+  color: green
+- name: Fast Learner
+  percentage: 85
+  color: sky
+- name: Problem Solving
+  percentage: 85
+  color: "#8b8383"
+# you can also provide color code instead of pre-defined color name
+# - name: Example 1
+#   percentage: 75
+#   color: "#00adb5"
+# - name: Example 2
+#   percentage: 65
+#   color: "#8b8383"
