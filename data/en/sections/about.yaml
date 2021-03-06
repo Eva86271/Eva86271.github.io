@@ -9,13 +9,13 @@ section:
   color: yellow
 
 # your designation
-designation: ITProfessional | Seeking oppurtunity in Data Science
+designation: 'ITProfessional | Seeking oppurtunity in Data Science'
 # your company information
 # your resume. this file path should be relative to you "static" directory
 resume: "files/Resume_Subhasree_Mohapatra_V1.pdf"
 
 # a summary about you
-summary: 'An enthusiast for Data Science. An oppurtunist to learn new aspects of technology. After gaining seven years of  substantial experience as an IT professional, I extended my step into the field of Data Science,mostly led by my curiosity to learn, to explore it in depth.This portfolio demonstrate my work towards learning data science,its the least not the last!!!'
+summary: 'An enthusiast for Data Science. An oppurtunist to gain knowledge and learn. After gaining seven years of substantial experience as an IT professional, I extended my step into the field of Data Science,mostly led by my curiosity to learn, to explore it in depth.This portfolio demonstrate my work towards learning data science,its the least not the last!!!'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
