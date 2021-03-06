@@ -14,7 +14,7 @@ Yellow:  #FFC212
 */
 
 body {
-  background-color: #f9fafc;
+  background-color: #5f6f91;
   font-family: "Muli";
 }
 
@@ -39,7 +39,7 @@ a {
 }
 
 a:hover {
-  color: #207089;
+  color: #19959e;
 }
 
 .nav-button {
@@ -96,7 +96,7 @@ a:hover {
 }
 
 .bg-dimmed {
-  background-color: #e5e9f2;
+  background-color: #617196;
 }
 
 .anchor {
