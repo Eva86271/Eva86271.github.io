@@ -384,6 +384,7 @@ var projectCards;
       detectDevice();
       adjustSkillCardsHeight();
       adjustRecentPostsHeight();
+      adjustCertCardsHeight();
       showAchievements();
     };
   });
