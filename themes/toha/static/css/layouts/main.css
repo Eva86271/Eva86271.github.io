@@ -15,7 +15,7 @@ Yellow:  #FFC212
 
 body {
   background-color: #5f6f91;
-  font-family: "Muli";
+  font-family: "Times New Roman";
 }
 
 h1,
@@ -23,7 +23,7 @@ h2,
 h3,
 h4,
 h5 {
-  color: #1c2d41;
+  color: #13263b;
 }
 
 strong {
@@ -35,7 +35,7 @@ p {
 }
 
 a {
-  color: #248aaa;
+  color: #2eaed4;
 }
 
 a:hover {
