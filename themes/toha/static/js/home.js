@@ -85,6 +85,28 @@ var projectCards;
     $(window).on("load", function () {
       adjustSkillCardsHeight();
     });
+        // ==================== Adjust height of the certification card =============
+        function adjustCertCardsHeight() {
+          if (!isMobile) { // no need to adjust height for mobile devices
+            // primary skills
+            var certiCards = document.getElementById("certifications");
+            if (certiCards != null) {
+              var cardElems = certiCards.getElementsByClassName("card");
+              var maxHeight = 0;
+              for (let i = 0; i < cardElems.length; i++) {
+                if (cardElems.item(i).clientHeight > maxHeight) {
+                  maxHeight = cardElems.item(i).clientHeight;
+                }
+              }
+              for (let i = 0; i < cardElems.length; i++) {
+                cardElems.item(i).setAttribute("style", "min-height: " + maxHeight + "px;");
+              }
+            }
+          }
+        }
+        $(window).on("load", function () {
+          adjustCertCardsHeight();
+        });
 
     // ================== Project cards =====================
     // Add click action on project category selector buttons
