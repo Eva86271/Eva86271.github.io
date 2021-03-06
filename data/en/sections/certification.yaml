@@ -2,7 +2,7 @@ section:
   name: Certification
   id: certifications
   enable: true
-  weight: 5
+  weight: 4
   showOnNavbar: true
 
 certifications:
@@ -14,6 +14,6 @@ certifications:
   #tags: ["R"]
 
 - name: Oracle Certified Professional, Java SE 6 Programmer
-  url: https://rpubs.com/Subha86/609340
+  #url: https://rpubs.com/Subha86/609340
   summary: Certified to work with Java knowledge along with academic engagement in the same.
   #tags: ["R"]
