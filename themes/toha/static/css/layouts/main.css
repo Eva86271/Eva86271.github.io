@@ -50,7 +50,7 @@ a:hover {
 }
 
 .btn-dark {
-  background-color:#00CED1;
+  background-color:#ffccff;
   border-color: #3c4a5e;
   color: #01050e;
   transition: all 0.3s ease-out;
@@ -92,7 +92,7 @@ a:hover {
 }
 
 .bg-white {
-  background-color: #cce0ff !important;
+  background-color: #b3ecff!important;
 }
 
 .bg-dimmed {
@@ -138,7 +138,7 @@ img.right {
 
 .card:hover,
 .card:focus {
-  box-shadow: 0px 8px 56px rgba(2, 51, 66, 0.16);
+  box-shadow: 0px 8px 56px rgba(1, 42, 54, 0.16);
   border: 1px solid rgb(112, 46, 46);
   transition: all 0.3s ease-out;
 }
