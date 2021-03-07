@@ -14,7 +14,7 @@ Yellow:  #FFC212
 */
 
 body {
-  background-color: #eceff3;
+  background-color: #f9fafc;
   font-family: "Times New Roman";
 }
 
@@ -23,36 +23,36 @@ h2,
 h3,
 h4,
 h5 {
-  color: #04090e;
+  color: #1c2d41;
 }
 
 strong {
-  color: #011935 !important;
+  color: #1c2d41 !important;
 }
 
 p {
-  color: #93a3b8;
+  color: #3c4858;
 }
 
 a {
-  color: #031318;
+  color: #248aaa;
 }
 
 a:hover {
-  color: #02484d;
+  color: #207089;
 }
 
 .nav-button {
   background-color: transparent;
   border: 1px solid transparent;
   border-radius: 0.25rem;
-  color: #0fa094;
+  color: #8392a5;
 }
 
 .btn-dark {
-  background-color: #066938;
-  border-color: #2d4e79;
-  color: #0e245a;
+  background-color: #3c4858;
+  border-color: #3c4858;
+  color: #e5e9f2;
   transition: all 0.3s ease-out;
 }
 
@@ -70,17 +70,17 @@ a:hover {
 
 .btn-outline-info:hover {
   background-color: #2098d1 !important;
-  color: #233f7e !important;
+  color: #e5e9f2 !important;
 }
 
 .btn-info {
-  background-color: #61b6cf !important;
-  color: #050b1a !important;
+  background-color: #248aaa !important;
+  color: #e5e9f2 !important;
 }
 
 .btn-info:hover {
-  background-color: #43addf !important;
-  color: #030b1f !important;
+  background-color: #2098d1 !important;
+  color: #e5e9f2 !important;
 }
 
 .btn-link{
@@ -96,7 +96,7 @@ a:hover {
 }
 
 .bg-dimmed {
-  background-color: #617196;
+  background-color: #e5e9f2;
 }
 
 .anchor {
@@ -137,8 +137,8 @@ img.right {
 
 .card:hover,
 .card:focus {
-  box-shadow: 0px 8px 56px rgba(7, 67, 85, 0.16);
-  border: 1px solid rgb(133, 89, 89);
+  box-shadow: 0px 8px 56px rgba(7, 85, 109, 0.16);
+  border: 1px solid rgb(131, 57, 57);
   transition: all 0.3s ease-out;
 }
 
@@ -172,7 +172,7 @@ img.right {
 
 .footer {
   color: #8392a5 !important;
-  background-color: #239bc0;
+  background-color: #1c2d41;
   position: relative;
   z-index: 9999;
 }
@@ -181,7 +181,7 @@ img.right {
   color: #c0ccda;
 }
 .footer a {
-  color: #030911;
+  color: #8392a5;
   transition: all 0.3s ease-out;
 }
 
@@ -200,7 +200,7 @@ img.right {
 }
 
 .footer hr {
-  background-color: #09182c;
+  background-color: #8392a5;
 }
 
 .footer p:first-child {
