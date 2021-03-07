@@ -80,7 +80,7 @@ a:hover {
 
 .btn-info:hover {
   background-color: #43addf !important;
-  color: #030b1f !important;
+  color: #eceff3 !important;
 }
 
 .btn-link{
@@ -96,7 +96,7 @@ a:hover {
 }
 
 .bg-dimmed {
-  background-color: #9ea9c2;
+  background-color: #f3f3f3;
 }
 
 .anchor {
