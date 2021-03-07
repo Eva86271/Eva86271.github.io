@@ -43,7 +43,7 @@ params:
   logo:
     main: /images/site/DS1.png
     inverted: /images/site/DS2.png
-    favicon: /images/site/DS2.png
+    #favicon: /images/site/DS2.png
 
   # GitHub repo URL of your site
   #gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
