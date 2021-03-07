@@ -27,7 +27,7 @@ h5 {
 }
 
 strong {
-  color: #1c2d41 !important;
+  color: #617c9b !important;
 }
 
 p {
@@ -74,13 +74,13 @@ a:hover {
 }
 
 .btn-info {
-  background-color: #248aaa !important;
+  background-color: #61b6cf !important;
   color: #050b1a !important;
 }
 
 .btn-info:hover {
-  background-color: #2098d1 !important;
-  color: #e5e9f2 !important;
+  background-color: #43addf !important;
+  color: #030b1f !important;
 }
 
 .btn-link{
