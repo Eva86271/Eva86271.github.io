@@ -163,21 +163,21 @@ img.right {
 }
 
 .sub-title {
-  color: #c0ccda;
+  color: #f6f7f8;
   font-size: 10pt;
 }
 
 /* --- FOOTER START --- */
 
 .footer {
-  color: #8392a5 !important;
-  background-color: #397763;
+  color: #010811 !important;
+  background-color: #639182;
   position: relative;
   z-index: 9999;
 }
 
 .footer h5 {
-  color: #c0ccda;
+  color: #032041;
 }
 .footer a {
   color: #03142b;
