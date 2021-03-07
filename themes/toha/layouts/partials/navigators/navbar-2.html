@@ -13,13 +13,13 @@
 
 {{/* resize the logos. don't resize svg because it is not supported */}}
 {{ $mainLogo := resources.Get $mainLogo}}
-{{ if and $mainLogo (ne $mainLogo.MediaType.SubType "svg") }}
+{{ if and $mainLogo (ne $mainLogo.MediaType.SubType "png") }}
   {{ $mainLogo = $mainLogo.Resize "42x" }}
 {{ end }}
 {{ $mainLogo = $mainLogo.RelPermalink}}
 
 {{ $invertedLogo := resources.Get $invertedLogo}}
-{{ if and $invertedLogo (ne $invertedLogo.MediaType.SubType "svg") }}
+{{ if and $invertedLogo (ne $invertedLogo.MediaType.SubType "png") }}
   {{ $invertedLogo = $invertedLogo.Resize "42x" }}
 {{ end }}
 {{ $invertedLogo = $invertedLogo.RelPermalink}}
