@@ -121,7 +121,7 @@ img.right {
 .card {
   box-shadow: none;
   transition: all 0.3s ease-out;
-  border: 0.4px solid rgb(97, 49, 26);
+  border: 0.02px solid rgb(177, 106, 74);
   overflow: hidden;
 }
 
