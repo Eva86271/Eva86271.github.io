@@ -25,22 +25,22 @@ buttons:
 
 # your projects
 projects:
-- name: Energy Story of Australia
+- name: Energy Story of Australia.
   logo: /images/sections/projects/R.png
   #role: Contributor
   #timeline: "March 2018 - Present"
   #repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
   url: https://rpubs.com/Subha86/621685
-  summary: A visual study of Energy flow using ggplot and R Studio.
+  summary: A visual study of Energy flow using ggplot and R Studio.Please click for details.
   tags: ["R"]
 
-- name: Reconstruction of a Story
+- name: Reconstructinf an Deceptive Visualization.
   logo: /images/sections/projects/R.png
   #role: Developer
   #timeline: "Jun 2018 - Present"
   #repo: https://github.com/tensorflow/tensorflow
   url: https://rpubs.com/Subha86/609340
-  summary: An academic session of challenging and reframing the data visualisation to increase accuracy using R.
+  summary: An academic session of challenging and reframing the data visualisation to increase accuracy using R.Please click for details.
   tags: ["R"]
 
 - name: UCI energy prediction
@@ -49,7 +49,7 @@ projects:
   #timeline: "Jan 2017 - Nov 2017"
   repo: https://github.com/Eva86271/UCI_Energy_Prediction_Model
   #url: "https://www.example.com"
-  summary: Prediction of energy consumption over a time period. Understanding the regulation and flow using Python.
+  summary: Prediction of energy consumption over a time period. Understanding the regulation and flow using Python.Please click for details.
   tags: ["academic","Python"]
 
 - name: SpeechToAudio Converter
@@ -58,7 +58,7 @@ projects:
   #timeline: "Oct 2019 - Dec 2019"
   repo: https://github.com/Eva86271/AudioPython
   #url: ""
-  summary: To learn the implementation of libraries, this was a curious attempt from Text to Speech conversion using Python Library. 
+  summary: This was a curious attempt from Text to Speech conversion using Python Libraries.Please click for details. 
   tags: ["Python", "fun"]
 
 - name: Loan Prediction Model
@@ -66,7 +66,7 @@ projects:
   #role: Owner
   #timeline: "Jun 2019 - Present"
   repo: https://github.com/Eva86271/LoanAnalysis
-  summary: Building a model to predict the loan application outcome of an applicant using Python.
+  summary: Building a model to predict the loan application outcome of an applicant using Python.Please click for details. 
   tags: ["Python"]
 
 - name: Potential Customer Analysis
@@ -74,7 +74,7 @@ projects:
   #role: Owner
   #timeline: "Jun 2019 - Present"
   repo: https://github.com/Eva86271/Potential_Customer_Analysis
-  summary: A analysis of who could be a future potential customer depending upon the trend analysed from existing customers using Python.
+  summary: Analysis to predict future potential customer depending upon the trend studied in existing customers of similar category of data with python.Please click for details. 
   tags: ["Python"]
 
 - name: Age Detection of Actor Image
@@ -82,7 +82,7 @@ projects:
   #role: Owner
   #timeline: "Jun 2019 - Present"
   repo: https://github.com/Eva86271/Potential_Customer_Analysis
-  summary: Classifying the images of actors into age group of Young,Middle,Old using Tensorflow and Python .
+  summary: Classifying the images of actors into age group of Young,Middle,Old using Tensorflow and Python.Please click for details. 
   tags: ["Python","Tensorflow"]
 
 - name: Hypothesis Testing Using R
@@ -90,7 +90,7 @@ projects:
   #role: Owner
   #timeline: "Jun 2019 - Present"
   repo: https://github.com/Eva86271/Hypothesis-Testing-Using-R
-  summary: A study was done over Pair-wise hypothesis testing using R to compare two retails brands in Australia.
+  summary: A study was done over Pair-wise hypothesis testing using R to compare two retails brands in Australia.Please click for details. 
   tags: ["R"]
 
 - name: GUI development using Java
@@ -98,7 +98,7 @@ projects:
   #role: Owner
   #timeline: "Jun 2019 - Present"
   repo: https://github.com/Eva86271/PostPublication_GUI_App/tree/master
-  summary: A holistic java implementation to develop a graphical user interface using Java FX as front end.
+  summary: A holistic java implementation to develop a graphical user interface using Java FX as front end.Please click for details. 
   tags: ["Java"]
 
 - name: Trends in Online Food Orders
@@ -106,7 +106,7 @@ projects:
   #role: Owner
   #timeline: "Jun 2019 - Present"
   url: https://www.youtube.com/watch?v=cJ6mshqCIho
-  summary: To enhance the visualisation skills, this is another outcome using Power BI tool to study the online food delivery trends.
+  summary: To enhance the visualisation skills, this is another outcome using Power BI tool to study the online food delivery trends.Please click for details. 
   tags: ["PBI"]
 
 - name: Analyse the Vaccination for Pneumonia and like diseases
@@ -114,5 +114,5 @@ projects:
   #role: Owner
   #timeline: "Jun 2019 - Present"
   url: https://www.youtube.com/watch?v=qRjAFVZA7A8&t=7s
-  summary: To enhance the visualisation skills, this is another outcome using Power BI tool to study the Vaccination trends and variation.
+  summary: To enhance the visualisation skills, this is another outcome using Power BI tool to study the Vaccination trends and variation.Please click for details. 
   tags: ["PBI"]

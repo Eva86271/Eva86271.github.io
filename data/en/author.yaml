@@ -2,7 +2,7 @@
 name: "Subhasree Mohapatra"
 nickname: "Subhasree"
 # greeting message before your name. it will default to "Hi! I am" if not provided
-greeting: "Hi, I am"
+greeting: "Greetings, I am"
 image: "images/author/Mypic.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
@@ -12,7 +12,5 @@ contactInfo:
 # some summary about what you do
 summary:
   - I work on Data ,with Data ,for Data.
-  - I am a Knowledge Seeker.
-  - I am a Data Enthusiast.
-  - I love to learn at any oppurtunity.
+  - The world is one big data problem.
   

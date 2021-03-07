@@ -13,12 +13,12 @@ section:
 skills:
 - name: Python
   logo: "/images/sections/skills/python.png"
-  summary: "Efficient in understanding and implementing solution in Python using its packages and libraries for data."
+  summary: "Efficient in understanding and implementing solution in Python using its various packages and libraries for data analysis,processing and providing solutions to problem."
   #url: "https://kubernetes.io/"
 
 - name: R Programming
   logo: "/images/sections/skills/R.png"
-  summary: "Skillfully using R and its associated libraries for Analysis."
+  summary: "Skillfully using R and its associated libraries to undertsand ,process and solve problems regarding data and its modelling."
   #url: "https://golang.org/"
 
 - name: Java Programming
