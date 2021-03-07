@@ -35,7 +35,7 @@ p {
 }
 
 a {
-  color: #2eaed4;
+  color: #031318;
 }
 
 a:hover {
@@ -75,7 +75,7 @@ a:hover {
 
 .btn-info {
   background-color: #248aaa !important;
-  color: #07205a !important;
+  color: #050b1a !important;
 }
 
 .btn-info:hover {
@@ -181,7 +181,7 @@ img.right {
   color: #c0ccda;
 }
 .footer a {
-  color: #8392a5;
+  color: #030911;
   transition: all 0.3s ease-out;
 }
 
