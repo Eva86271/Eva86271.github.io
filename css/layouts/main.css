@@ -164,7 +164,7 @@ img.right {
 }
 
 .sub-title {
-  color: #c0ccda;
+  color: #022246;
   font-size: 10pt;
 }
 
@@ -172,13 +172,13 @@ img.right {
 
 .footer {
   color: #8392a5 !important;
-  background-color: #239bc0;
+  background-color: #06788b;
   position: relative;
   z-index: 9999;
 }
 
 .footer h5 {
-  color: #c0ccda;
+  color: #000913;
 }
 .footer a {
   color: #030911;
@@ -204,7 +204,7 @@ img.right {
 }
 
 .footer p:first-child {
-  color: #c0ccda;
+  color: #020a14;
 }
 
 .footer input {
