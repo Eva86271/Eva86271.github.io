@@ -82,7 +82,7 @@ projects:
   #role: Owner
   #timeline: "Jun 2019 - Present"
   repo: https://github.com/Eva86271/Potential_Customer_Analysis
-  summary: Classifying the images of actors into age group of Young,Middle,Old using Tensorflow and Python.Please click for details. 
+  summary: 'Classifying the images of actors into age group of Young,Middle,Old using Tensorflow and Python.Please click for details.' 
   tags: ["Python","Tensorflow"]
 
 - name: Hypothesis Testing Using R
