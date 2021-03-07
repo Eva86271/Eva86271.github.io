@@ -34,7 +34,7 @@ projects:
   summary: A visual study of Energy flow using ggplot and R Studio.Please click for details.
   tags: ["R"]
 
-- name: Reconstructinf an Deceptive Visualization.
+- name: Rectification of a Deceptive Visualization using R.
   logo: /images/sections/projects/R.png
   #role: Developer
   #timeline: "Jun 2018 - Present"
