@@ -8,7 +8,7 @@
 
 {{/* resize the favicon. don't resize svg because it is not supported */}}
 {{ $favicon := resources.Get $favicon }}
-{{ if and $favicon (ne $favicon.MediaType.SubType "svg") }}
+{{ if and $favicon (ne $favicon.MediaType.SubType "png") }}
   {{ $favicon = $favicon.Resize "42x" }}
 {{ end }}
 {{ $favicon = $favicon.RelPermalink}}
