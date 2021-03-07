@@ -49,8 +49,8 @@ a:hover {
 }
 
 .btn-dark {
-  background-color: #3d9b74;
-  border-color: #3c4858;
+  background-color: #7cecbd;
+  border-color: #3c4a5e;
   color: #061842;
   transition: all 0.3s ease-out;
 }
@@ -171,7 +171,7 @@ img.right {
 
 .footer {
   color: #8392a5 !important;
-  background-color: #1c2d41;
+  background-color: #397763;
   position: relative;
   z-index: 9999;
 }
@@ -180,7 +180,7 @@ img.right {
   color: #c0ccda;
 }
 .footer a {
-  color: #8392a5;
+  color: #03142b;
   transition: all 0.3s ease-out;
 }
 
