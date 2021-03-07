@@ -49,7 +49,7 @@ a:hover {
 }
 
 .btn-dark {
-  background-color: #418bec;
+  background-color: #4fc7a3;
   border-color: #3c4a5e;
   color: #01050e;
   transition: all 0.3s ease-out;
@@ -95,7 +95,7 @@ a:hover {
 }
 
 .bg-dimmed {
-  background-color: #f0f3df;
+  background-color: #b4c5eb;
 }
 
 .anchor {
