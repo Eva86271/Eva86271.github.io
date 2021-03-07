@@ -49,7 +49,7 @@ a:hover {
 }
 
 .btn-dark {
-  background-color: #4fc7a3;
+  background-color: #228B22;
   border-color: #3c4a5e;
   color: #01050e;
   transition: all 0.3s ease-out;
@@ -172,7 +172,7 @@ img.right {
 
 .footer {
   color: #010811 !important;
-  background-color: #FFE4C4;
+  background-color:#F0E68C;
   position: relative;
   z-index: 9999;
 }
