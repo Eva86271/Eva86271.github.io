@@ -91,11 +91,11 @@ a:hover {
 }
 
 .bg-white {
-  background-color: #95c6f3 !important;
+  background-color: #F0F8FF !important;
 }
 
 .bg-dimmed {
-  background-color: #FFE4C4;
+  background-color: #F5F5DC;
 }
 
 .anchor {
@@ -172,7 +172,7 @@ img.right {
 
 .footer {
   color: #010811 !important;
-  background-color: #DEB887;
+  background-color: #FFE4C4;
   position: relative;
   z-index: 9999;
 }
