@@ -39,7 +39,7 @@ a {
 }
 
 a:hover {
-  color: #19959e;
+  color: #056b72;
 }
 
 .nav-button {
@@ -75,7 +75,7 @@ a:hover {
 
 .btn-info {
   background-color: #248aaa !important;
-  color: #e5e9f2 !important;
+  color: #07205a !important;
 }
 
 .btn-info:hover {
