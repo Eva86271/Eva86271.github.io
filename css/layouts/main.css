@@ -73,7 +73,7 @@ a:hover {
 }
 
 .btn-info {
-  background-color: #248aaa !important;
+  background-color: #033b4d !important;
   color: #e5e9f2 !important;
 }
 
@@ -95,7 +95,7 @@ a:hover {
 }
 
 .bg-dimmed {
-  background-color: #e5e9f2;
+  background-color: #f0f3df;
 }
 
 .anchor {
@@ -171,13 +171,13 @@ img.right {
 
 .footer {
   color: #010811 !important;
-  background-color: #a914d6;
+  background-color: #cd9add;
   position: relative;
   z-index: 9999;
 }
 
 .footer h5 {
-  color: #032041;
+  color: #010a14;
 }
 .footer a {
   color: #03142b;
