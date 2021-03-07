@@ -23,7 +23,7 @@ h2,
 h3,
 h4,
 h5 {
-  color: #13263b;
+  color: #376599;
 }
 
 strong {
@@ -39,7 +39,7 @@ a {
 }
 
 a:hover {
-  color: #056b72;
+  color: #02484d;
 }
 
 .nav-button {
@@ -52,7 +52,7 @@ a:hover {
 .btn-dark {
   background-color: #066938;
   border-color: #2d4e79;
-  color: #081a46;
+  color: #0e245a;
   transition: all 0.3s ease-out;
 }
 
@@ -200,7 +200,7 @@ img.right {
 }
 
 .footer hr {
-  background-color: #8392a5;
+  background-color: #09182c;
 }
 
 .footer p:first-child {
