@@ -23,7 +23,7 @@ h2,
 h3,
 h4,
 h5 {
-  color: #5986b9;
+  color: #376599;
 }
 
 strong {
@@ -50,7 +50,7 @@ a:hover {
 }
 
 .btn-dark {
-  background-color: #1c995a;
+  background-color: #066938;
   border-color: #2d4e79;
   color: #0e245a;
   transition: all 0.3s ease-out;
@@ -96,7 +96,7 @@ a:hover {
 }
 
 .bg-dimmed {
-  background-color: #9ea9c2;
+  background-color: #617196;
 }
 
 .anchor {
