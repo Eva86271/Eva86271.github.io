@@ -23,11 +23,11 @@ h2,
 h3,
 h4,
 h5 {
-  color: #5986b9;
+  color: #04090e;
 }
 
 strong {
-  color: #617c9b !important;
+  color: #011935 !important;
 }
 
 p {
@@ -50,7 +50,7 @@ a:hover {
 }
 
 .btn-dark {
-  background-color: #1c995a;
+  background-color: #066938;
   border-color: #2d4e79;
   color: #0e245a;
   transition: all 0.3s ease-out;
@@ -80,7 +80,7 @@ a:hover {
 
 .btn-info:hover {
   background-color: #43addf !important;
-  color: #eceff3 !important;
+  color: #030b1f !important;
 }
 
 .btn-link{
@@ -96,7 +96,7 @@ a:hover {
 }
 
 .bg-dimmed {
-  background-color: #f3f3f3;
+  background-color: #617196;
 }
 
 .anchor {
@@ -164,7 +164,7 @@ img.right {
 }
 
 .sub-title {
-  color: #022246;
+  color: #c0ccda;
   font-size: 10pt;
 }
 
@@ -172,13 +172,13 @@ img.right {
 
 .footer {
   color: #8392a5 !important;
-  background-color: #06788b;
+  background-color: #239bc0;
   position: relative;
   z-index: 9999;
 }
 
 .footer h5 {
-  color: #000913;
+  color: #c0ccda;
 }
 .footer a {
   color: #030911;
@@ -204,7 +204,7 @@ img.right {
 }
 
 .footer p:first-child {
-  color: #020a14;
+  color: #c0ccda;
 }
 
 .footer input {
