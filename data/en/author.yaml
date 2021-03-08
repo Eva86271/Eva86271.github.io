@@ -6,11 +6,11 @@ greeting: "Greetings, I am"
 image: "images/author/Mypic.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
-  email: "subhasreemohapatra2019@gmail.com.com"
+  email: "subhasreemohapatra2019@gmail.com"
   #phone: "+0123456789"
 
 # some summary about what you do
 summary:
-  - I work on Data ,with Data ,for Data.
+  - I work on Data,with Data ,for Data.
   - The world is one big data problem.
   
