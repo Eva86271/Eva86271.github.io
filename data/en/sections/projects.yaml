@@ -116,3 +116,19 @@ projects:
   url: https://www.youtube.com/watch?v=qRjAFVZA7A8&t=7s
   summary: To enhance the visualisation skills, this is another outcome using Power BI tool to study the Vaccination trends and variation.Please click for details. 
   tags: ["PBI"]
+
+- name: Acute Nephritis Analysis Model
+  logo: /images/sections/projects/python.png
+  #role: Owner
+  #timeline: "Jun 2019 - Present"
+  repo: https://github.com/Eva86271/Acute_Nephritis_classification
+  summary: To classify the cases of Acute Nephritis over the data provided in Kaggle. The data was explored with the aspects of their occurence.
+  tags: ["Python"]
+
+- name: Quantium Store Analysis
+  logo: /images/sections/projects/python.png
+  #role: Owner
+  #timeline: "Jun 2019 - Present"
+  repo: https://github.com/Eva86271/Store-Analysis-and-Performance
+  summary: The performance of store and the frequency of the preference of the stores were studied and analysis using data exploration.
+  tags: ["Python"]
