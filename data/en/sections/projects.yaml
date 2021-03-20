@@ -43,14 +43,14 @@ projects:
   summary: An academic session of challenging and reframing the data visualisation to increase accuracy using R.Please click for details.
   tags: ["R"]
 
-- name: UCI energy prediction
-  logo: /images/sections/projects/python.png
+- #name: UCI energy prediction
+  #logo: /images/sections/projects/python.png
  # role: Team Lead
   #timeline: "Jan 2017 - Nov 2017"
-  repo: https://github.com/Eva86271/UCI_Energy_Prediction_Model
+ # repo: https://github.com/Eva86271/UCI_Energy_Prediction_Model
   #url: "https://www.example.com"
-  summary: Prediction of energy consumption over a time period. Understanding the regulation and flow using Python.Please click for details.
-  tags: ["academic","Python"]
+  #summary: Prediction of energy consumption over a time period. Understanding the regulation and flow using Python.Please click for details.
+  #tags: ["academic","Python"]
 
 - name: SpeechToAudio Converter
   logo: /images/sections/projects/python.png
@@ -132,3 +132,12 @@ projects:
   repo: https://github.com/Eva86271/Store-Analysis-and-Performance
   summary: The performance of store and the frequency of the preference of the stores were studied and analysis using data exploration.
   tags: ["Python"]
+
+- name: Sports Image Classification
+  logo: /images/sections/projects/tensorflow.png
+  #role: Team Lead
+  #timeline: "Jan 2017 - Nov 2017"
+  repo: https://github.com/Eva86271/Sport_Image_Classification
+  #url: "https://www.example.com"
+  summary: Various images of sports were classified using Tensorflow and Resnet50 model.
+  tags: ["Tensorflow","Python"]
