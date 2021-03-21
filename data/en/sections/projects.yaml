@@ -43,15 +43,6 @@ projects:
   summary: An academic session of challenging and reframing the data visualisation to increase accuracy using R.Please click for details.
   tags: ["R"]
 
-- name: UCI energy prediction
-  logo: /images/sections/projects/python.png
- # role: Team Lead
-  #timeline: "Jan 2017 - Nov 2017"
- repo: https://github.com/Eva86271/UCI_Energy_Prediction_Model
- url: "https://www.example.com"
- summary: Prediction of energy consumption over a time period. Understanding the regulation and flow using Python.Please click for details.
- tags: ["academic","Python"]
-
 - name: SpeechToAudio Converter
   logo: /images/sections/projects/python.png
   #role: Nothing
