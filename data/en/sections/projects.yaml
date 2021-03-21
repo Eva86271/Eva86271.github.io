@@ -138,6 +138,5 @@ projects:
   #role: Team Lead
   #timeline: "Jan 2017 - Nov 2017"
   repo: https://github.com/Eva86271/Sport_Image_Classification
-  #url: "https://www.example.com"
   summary: Various images of sports were classified using Tensorflow and Resnet50 model.
-  tags: ["Tensorflow","Python"]
+  tags: ["Tensorflow"]
