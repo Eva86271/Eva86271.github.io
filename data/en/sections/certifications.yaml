@@ -13,7 +13,15 @@ certifications:
   summary: Certified to have a holistic view of Azure clouds functionalities,support,and operartions.
   #tags: ["R"]
 
+- name: Azure Data Fundamentals(DP-900)
+  #logo: /images/sections/projects/R.png
+  #repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: https://www.credly.com/earner/earned/badge/80bdffeb-315f-4962-9021-437c5f755c3e
+  summary: Certified to have a holistic view of Azure Data and Database functionalities and operartions.
+  #tags: ["R"]
+
 - name: Oracle Certified Professional, Java SE 6 Programmer
   #url: https://rpubs.com/Subha86/609340
   summary: Certified to work with Java knowledge along with academic engagement in the same.
   #tags: ["R"]
+  
