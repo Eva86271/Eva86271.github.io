@@ -12,7 +12,7 @@ section:
 designation: 'IT Professional | Seeking oppurtunity in Data Science'
 # your company information
 # your resume. this file path should be relative to you "static" directory
-resume: "files/Resume_Subhasree_Mohapatra_V1.pdf"
+resume: "files/Resume_Subhasree_Mohapatra.pdf"
 
 # a summary about you
 summary: 'An enthusiast for Data Science. An opportunist to gain knowledge and believer in continuous learning. After gaining seven years of substantial experience as an IT professional, I extended my step into the field of Data Science, mostly led by my curiosity, to learn and explore it in depth. This portfolio demonstrates some of my work towards my learning journey, a few milestones,many more to come!!'
